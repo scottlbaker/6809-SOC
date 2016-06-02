@@ -47,7 +47,6 @@ CLK        J3 -pullup yes
 
 The 6809 is an eight-bit microprocessor introduced by Motorola in 1978. It can trace its lineage back to the earlier 6800 microprocessor. The 6800 has 78 instructions and the 6809 has only 59, but the 6809 instructions are more general and can be combined with more addressing modes. The 6809 has two 8-bit accumulators (A&B) that can be combined into a single 16-bit register (D). It also features two 16-bit index registers and two 16-bit stack pointers (for separate user and system stacks), which allow for some very advanced addressing modes. Other features include one of the first multiplication instructions in a microprocessor, 16-bit arithmetic and a special fast interrupt.
 
-The 6809 
 
 ## Contributors
 
